@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/tta/Documents/Project Game/2048 5",
+      "program": "/Users/tta/Documents/Project Game/2048 5/build/Debug/outDebug"
+    }
+  ]
+}
