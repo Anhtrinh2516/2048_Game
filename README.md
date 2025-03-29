@@ -1,4 +1,4 @@
-Game 2048    MSV: 24020032
+#Game 2048    MSV: 24020032
 Một phiên bản của trò chơi 2048 cổ điển được viết bằng C++ và SDL2.
 
 Tính năng
