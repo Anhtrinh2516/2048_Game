@@ -28,6 +28,7 @@ make
 
 -Chạy game
 ./2048
+
 -Cách chơi
 Sử dụng các phím mũi tên để di chuyển các ô
 Kết hợp các ô có cùng giá trị để tạo ra ô có giá trị lớn hơn
